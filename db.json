@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "KEM RỬA MẶT DƯỠNG TRẮNG HADA LABO",
+      "price": 109.95,
+      "description": "SẠCH SÂU, DỊU NHẸ.SÁNG DA VÀ GIẢM THÂM SẠM SAU 7 NGÀY.",
+      "category": "Sữa rửa mặt",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2019/06/Cleanser.png"
+    },
+    {
+      "id": 2,
+      "title": "KEM RỬA MẶT CHO DA MỤN, NHẠY CẢM",
+      "price": 95.000,
+      "description": "SẠCH SÂU BỤI BẨN, VI KHUẨN, BÃ NHỜN ẨN SÂU TRONG LỖ CHÂN LÔNG",
+      "category": "Sữa rửa mặt",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2022/05/AC_Cleanser.png"
+    },
+    {
+      "id": 3,
+      "title": "KEM RỬA MẶT DƯỠNG ẨM",
+      "price": 75.000,
+      "description": "CHỨA THÀNH PHẦN LÀM SẠCH GỐC TỰ NHIÊN GIÚP SẠCH SÂU BỤI BẨN, BÃ NHỜN VÀ DƯỠNG DA ẨM MỊN.",
+      "category": "Sữa rửa mặt",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2021/08/Cleanser.png"
+    },
+    {
+      "id": 4,
+      "title": "GEL DƯỠNG ẨM CHO DA MỤN, NHẠY CẢM",
+      "price": 270.000,
+      "description": "GEL DƯỠNG ẨM, NGĂN NGỪA MỤN, LÀM DỊU VÀ CẢI THIỆN DA MỤN",
+      "category": "Kem dưỡng",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2024/03/HDLB_AcneCare_Jar_GelCream_release.png"
+    },
+    {
+      "id": 5,
+      "title": "KEM DƯỠNG TRẮNG HADA LABO",
+      "price": 240.000,
+      "description": "KHÓA ẨM CHUYÊN SÂU, DƯỠNG DA ẨM MỊN SÁNG DA VÀ GIẢM THÂM SẠM SAU 7 NGÀY",
+      "category": "Kem dưỡng",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2019/06/Cream.png"
+    },
+    {
+      "id": 6,
+      "title": "KEM DƯỠNG CHUYÊN BIỆT HADA LABO",
+      "price": 274.000,
+      "description": "KHÓA ẨM VÀ LÀM MỜ NẾP NHĂN, DƯỠNG DA SĂN CHẮC, CẢI THIỆN THÂM SẠM.",
+      "category": "Kem dưỡng",
+      "image": "https://hadalabo.com.vn/wp-content/uploads/2018/06/Thie%CC%82%CC%81t-ke%CC%82%CC%81-kho%CC%82ng-te%CC%82n-78.png"
+    }
+  ]
+}
